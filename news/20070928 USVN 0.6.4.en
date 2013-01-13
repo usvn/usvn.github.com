@@ -1,0 +1,19 @@
+<p>USVN new release!</p>
+
+<p>The USVN 0.6.4 version is now available on USVN website <a href="http://www.usvn.fr/en/download">here</a>.</p>
+
+<p>What's new in 0.6.4:</p>
+<ul>
+<li>Update to Zend Framework 1.0.1.</li>
+<li>Now it is possible to pass over the detection step during the installation of USVN.</li>
+<li>You can set the timezone you want. There is a possible merge of htpasswd from command line.</li>
+<li>And now you can include the dash character (-) in project names.</li>
+<li>We preserse some modifications into authz files.</li>
+<li>USVN is now available in Czech!</li>
+<li>USVN website is now available in Spanish!</li>
+</ul>
+
+<p>Special thanks to Alois Belaska, Martin W. Kirst and Esteban Cerutti for their help.</p>
+
+<p>The USVN team.</p>
+

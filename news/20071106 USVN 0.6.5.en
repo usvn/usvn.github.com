@@ -1,0 +1,12 @@
+<p>USVN 0.6.5 released</p>
+
+<p>The USVN 0.6.5 version is now available on USVN website <a href="http://www.usvn.fr/en/download">here</a>.</p>
+
+<ul>
+	<li>Fix minor security issue (unauthorized user can see list of files into Subversion repository)</li>
+    	<li>Fix minor bugs</li>
+	<li>Improve locale detections</li>
+	<li>Special Characters like + are now allowed into directories names</li>
+</ul>
+
+<p>USVN Team.</p>

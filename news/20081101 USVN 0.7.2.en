@@ -1,0 +1,22 @@
+USVN 0.7.2 is now available. This version fix blocking bugs reported by users and add minor improvement.
+<br/><br/>
+Fix blocking bugs:
+<ul>
+    <li>Project creation with Subversion 1.5</li>
+	<li>After modifying a group, all members will be gone</i>
+</ul>
+Minor improvements:
+<ul>
+	<li>Subversion urls are clickable</li>
+	<li>Download files from file browser</li>
+</ul>
+New translations:
+<ul>
+	<li>Indonesian</li>
+	<li>Dutch</li>
+</ul>
+Upgrade is mandatory.
+<br/><br/>
+Thanks to all contributors and our friends of Rathaxes for their help.
+<br /><br /><br />
+<center><a href="http://www.rathaxes.org/"><img src="/images/news/rathaxes.png" border="0"/></a></center>

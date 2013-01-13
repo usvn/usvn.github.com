@@ -1,0 +1,14 @@
+<p>The 1.0.1 revision of USVN is available.</p>
+<br />
+<p>
+  This revision fix some bugs of revision 1.0.0, in particular:
+  <ul>
+    <li>htpasswd file import</li>
+    <li>Group edition</li>
+    <li>Internet Explorer rendering</li>
+    <li>LDAP login</li>
+    <li>Log comment display</li>
+  </ul>
+</p>
+<p>Update is recommanded for everyone.</p>
+<p>Thanks for users reporting bugs.</p>

@@ -1,0 +1,28 @@
+<p>Major release for USVN with 0.7 version</p>
+
+<p>This USVN 0.7 release is already available on USVN website <a href="http://www.usvn.fr/fr/download">here</a>.</p>
+
+<p>The main changes on this version are based on users feedbacks.
+<br> Group's management browsing has been rewritten.
+<br>Now it is possible to choose a group leader which control users in a specified group.
+<br>Project leaders can't modify groups linked to their projects.<br>
+<br>Concerning the change log:</p>
+<ul>
+    	<li>Add of an RSS flow which allow to follow project life's.</li>
+    	<li>New dedicated time line page.</li>
+	<li>New tools in order to import existing Subversion repositories.</li>
+	<li>USVN package for WAMP, easy installation of USVN under Windows.</li>
+	<li>Groups management rewriting.</li>
+	<li>Automatics checks for new USVN release.</li>
+	<li>Page which give a detailed USVN installation report.</li>
+	<li>Recursive rights application on folders and sub folders.</li>
+	<li>Russian translation</li>
+	<li>German translation</li>
+	<li>It is also possible to create empty projects (they will not have folders "/trunk" ,"/tags", "/branches" automatically generated.)</li>
+	<li>By default user will not have write permissions on folders  "/trunk and "/branches" ( this do not concern "/tags" folder).</li>
+
+</ul>
+
+<p>We highly advise all USVN users to make this update to 0.7 version because the previous version (0.6) will only receive security updates.</p>
+
+<p>USVN Team.</p>

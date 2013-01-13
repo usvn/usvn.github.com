@@ -1,0 +1,10 @@
+<p>USVN 0.6.2 has been just released. This version fixes some bugs.</p>
+<ul>
+	<li>Fix JavaScript problems to set rights on /</li>
+	<li>Install is possible in https</li>
+	<li>Groups are unique</li>
+	<li>Improve file browser design</li>
+	<li>Fix minors bug with SQLite</li>
+</ul>
+
+<p>The USVN team.</p>

@@ -1,0 +1,24 @@
+<p>USVN development team is proud to annonce you that the first USVN public version (0.5) is released.</p>
+
+<h4>What are USVN features for this version:</h4>
+<ul>
+<li>Creation and suppression of subversion deposit.</li>
+<li>htpasswd generation from USVN user list.</li>
+<li>Thin access restriction management of files on the subversion.</li>
+</ul>
+
+
+<h4>Wich operating system's are supported ?</h4>
+<p>
+Right now, all UNIX based OS all web browsers excepted IE are supported.
+Theses ones will come later due to incompatibility problems.
+We are working on theses but you can already test USVN under Microsoft Windows OS and see how it works but some functionnality are broken.
+<br />
+USVN will be compatible with Microsoft Windows OS in the next release.  We will inform you in time.
+</p>
+<p>
+For more information please visit our website: <a href="http://www.usvn.info/">http://www.usvn.info/</a> and our forum: <a href="http://forum.usvn.info/">http://forum.usvn.info/</a>
+</p>
+<p>
+The USVN team.
+</p>

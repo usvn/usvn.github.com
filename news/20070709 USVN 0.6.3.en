@@ -1,0 +1,18 @@
+<p>USVN 0.6.3 has been just released. This version focus on translation of the interface. And of course
+this version also fixes some bugs:
+</p>
+<ul>
+	<li>Spanish translation</li>
+	<li>Chinese translation</li>
+	<li>Fix translation issues in file browser</li>
+	<li>If installation fail you can restart it</li>
+	<li>Fix update authz file problem when remove group from project</li>
+	<li>You can change htpasswd and authz files emplacement</li>
+	<li>Change javascript sort tables (improve browser compatibility)</li>
+	<li>Command line installer (for packaging purpose)</li>
+	<li>Improve display of last five commits</li>
+</ul>
+
+<p>Thanks to all contributors</p>
+
+<p>The USVN team.</p>

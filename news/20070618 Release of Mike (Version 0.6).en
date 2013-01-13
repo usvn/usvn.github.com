@@ -1,0 +1,33 @@
+<p>We have just published USVN 0.6. The main guideline of this version is to
+improve compatibility with many operating systems and many databases.</p>
+
+<p>An automated update from 0.5 is provided but please backup your data
+before updating.</p>
+
+<p>You can download this version on our website: <a href="http://www.usvn.info">http://www.usvn.info</a></p>
+
+<p>
+Thanks for your support
+</p>
+
+<h2>Changelog of version 0.6</h2>
+<ul>
+	<li>Support of Sqlite Database</li>
+   <li>Support of Mysqli adapter (Solve crash on debian etch)</li>
+   <li>64 bits support</li>
+   <li>Microsoft Windows support</li>
+   <li>Detect some possible configuration issues in installation (mod_dav_svn, mod_rewrite, safe_mode...)</li>
+   <li>Access rigths on root directory of subversion repositories</li>
+</ul>
+
+<h3>Minor features</h3>
+<ul>
+   <li>When you create an user you can create a group with the same name</li>
+   <li>Add user into a group directly into this group admin page</li>
+   <li>Manage user's groups into users admin page</li>
+   <li>Arrow works in completions</li>
+   <li>Using Zend Framework 1.0.0RC2</li>
+   <li>Better compatibility with Internet Explorer</li>
+</ul>
+
+<p>The USVN team.</p>
