@@ -1,0 +1,21 @@
+---
+title: USVN 1.0.6
+layout: post
+---
+Happy new years,
+<br>
+<br>
+USVN 1.0.6 is now available.
+<br>
+<br>
+Thanks to xxorax you can now configure the default permission for Subversion files on your server.<br>
+The new settings are:
+<pre>
+;; svn files mod on creation	
+subversion.chmod = "0770"	
+;; svn repo/db/* directories mod (used on fcgi env)
+subversion.chmod_db = "2770"
+</pre>
+<br>
+<br>
+We also fix a bug in management of groups for an user.
