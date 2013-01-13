@@ -1,0 +1,16 @@
+USVN 0.7.1 is now available. This version fix blocking bugs reported by users.
+<br/><br/>
+Now Japanese and Brazilian portuguese translations are include into USVN package.
+<br /><br />
+Fix blocking bugs:
+<ul>
+    <li>Upgrade from 0.6.5 doesn't support database prefix</li>
+	<li>Add missing rss icon on Internet Explorer</i>
+    <li>Problem with recursive file rights update</li>
+    <li>Fix problem with PDO on Etch and CentOS</li>
+    <li>User can only click on his groups</li> 
+    <li>Better errors display when htpasswd is invalid</li>
+</ul>
+<br /><br />
+Since 0.7 we have collected a lot of information about USVN users.<br />
+Now we are pleased publish them on our website: <a href="http://local.usvn.info/stat">Stats</a>

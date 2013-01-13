@@ -1,0 +1,26 @@
+Sebastian Buckpesch<br>
+<br>
+Dear USVN-Team,<br>
+ <br>
+thanks a lot for your product. It helps me a lot to manage my SVN-Repository and projects. As a contribution to your work I send you my auto-commit files, which I think many developers are using.
+ <br><br>
+What auto-commit does:
+Each time someone is checking in a new version of a file to the repository, the file will be checked-out to the www-directory automatically, so that everybody can see the new version live on the test-/web-server. To get this functionality you need two files in the hooks-folder of a project:<br>
+<ul>
+         <li>hooks/post-commit (you have to replace two variables, repository path and path to www-folder)</li>
+<li>hooks/bin/autocheckout.sh (has to be executable by post-commit: chmod +x)</li>
+</ul>
+
+<br><br>
+Proposal to quick including autocheckout functionality:<br>
+1) When an admin creates a new project in usvn he can choose to use auto-checkout. If so, he has to enter the server path to his www-directory he wants to checkout the files to.<br>
+2) After saving you include the two attached files into the repository template (folder hooks) and replace the two variables in post-commit-file (repo-path and www-path)<br>
+ <br>
+That's it! I think it's not so complicated to include and would help many users.
+<br> 
+THANKS A LOT FOR YOUR PRODUCT!!!<br>
+ <br>
+Best Regards from Dublin,<br>
+Sebastian<br>
+<br>
+Attached file: <a href="/auto.zip">auto.zip</a>

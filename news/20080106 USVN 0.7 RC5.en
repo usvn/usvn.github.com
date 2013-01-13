@@ -1,0 +1,34 @@
+<p>USVN 0.7 RC5 is a preview release of next major version of USVN</p>
+
+<p>You can test this version before publication of the production ready release.</p>
+
+<p>The main changes on this version are based on users feedbacks.
+<br> Group's management browsing has been rewritten.
+<br>Now it is possible to choose a group leader witch control users in a specified group.
+<br>Project leaders can't modify groups linked to their projects.<br>
+<br>Concerning the change log:</p>
+<ul>
+    	<li>Add of an RSS flow witch allow to follow project life's.</li>
+    	<li>New dedicated time line page.</li>
+	<li>New tools in order to import existing Subversion repositories.</li>
+	<li>USVN package for WAMP, easy installation of USVN under Windows.</li>
+	<li>Groups management rewriting.</li>
+	<li>Automatics checks for new USVN release.</li>
+	<li>Page witch give a detailed USVN installation report.</li>
+	<li>Recursive rights application on folders and sub folders.</li>
+	<li>Russian translation</li>
+	<li>German translation</li>
+	<li>It is also possible to create empty projects (they will not have folders "/trunk" ,"/tags", "/branches" automatically generated.)</li>
+	<li>By default user will not have write permissions on folders  "/trunk and "/branches" ( this do not concern "/tags" folder).</li>
+</ul>
+
+<p>
+You can download this version:
+<ul>
+	<li>ZIP: <a href="https://pfe.epitech.net/frs/download.php/729/usvn-0.7RC5.zip">https://pfe.epitech.net/frs/download.php/729/usvn-0.7RC5.zip</a></li>
+	<li>TAR/GZ: <a href="https://pfe.epitech.net/frs/download.php/726/usvn-0.7RC5.tgz">https://pfe.epitech.net/frs/download.php/726/usvn-0.7RC5.tgz</a></li>
+</p>
+
+<p>Please test this release and give feebacks and bug reports. Thanks.</p>
+
+<p>USVN Team.</p>

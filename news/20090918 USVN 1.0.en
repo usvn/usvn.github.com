@@ -1,0 +1,74 @@
+You might not know it, but USVN is a scholastic project. The original creators of the project have been quite busy with school and internships, plus they have now finshed their studies, and have been released in the wild world of real work.
+<br />
+<br />
+However do not worry, dear USVN user. Because the original creators now having a job does not mean the project will be abandonned!
+<br />
+I am proud to announce that we are taking over the project, with the original creators still supervising us. And in case you are wondering, this is who "we" are:
+<br >
+<ul>
+	<li>Sylvain &laquo;<em>Zak</em>&raquo; Hughet</li>
+	<li>Thibault &laquo;<em>naixn</em>&raquo; Martin-Lagardette</li>
+	<li>Damien &laquo;<em>Tidam</em>&raquo; Meurisse</li>
+	<li>Jean-Philippe &laquo;<em>Carbonimax</em>&raquo; Meunier</li>
+	<li>Pierre &laquo;<em>Nelyus</em>&raquo; Monod-Broca</li>
+</ul>
+<br />
+<br />
+We know that this might not actually be a &laquo;good&raquo; news for you per say, but we are not coming empty-handed.
+<br />
+In fact, we are announcing <span style="font-weight:bold; text-decoration: underline;">the release of USVN 1.0</span>!
+<br />
+<br />
+Yes, you read correctly, we are releasing USVN version 1.0.
+<br />
+However, 1.0 does not mean it's a final product. But a new team, with an almost new code base... We thought it deserved a different version number, just for the sake of it!
+<br />
+Without further ado, here is the interesting part:
+<br />
+<br />
+<span style="font-weight:bold; text-decoration: underline;">What's new in USVN 1.0:</span>
+<ul>
+	<li>
+		<strong>A brand new design!</strong>
+		<br />
+		USVN worked great, but some things were missing for a better user experience. So we decided to start with a new design! We hope you'll like it!
+	</li>
+	<li>
+		<strong>A newer code base!</strong>
+		<br />
+		Some parts were quite old, and did not fit in an application this big, but we now have a newer (and hopefully better) code base for more speed and responsiveness.
+	</li>
+	<li>
+		<strong>Revision browsing + revision differences + syntax highlighting!</strong>
+		<br />
+		SVN is a powerful tool, because it allows you to keep a history of your source code. And you can also see what changed between different revisions.
+		<br />
+		Well guess what? You can now do that via USVN now, too! As a bonus, you will get a colored diff!
+		<br />
+		Plus, we know most of you do not really enjoy reading your code plain black on plain white. So be happy, because we have syntax highlighting! (using <a target="_blank" href="http://qbnz.com/highlighter/">GeSHI</a>)
+	</li>
+	<li>
+		<strong>LDAP support!</strong>
+		<br />
+		The more user databases, the harder it is to manage. LDAP aims at creating a unique directory services protocol, and it does a great job doing that.
+		<br />
+		You asked us to implement LDAP, and we heard you. 1.0 comes with (limited) LDAP support. Why limited? Because for now, it can only be used to login.
+		You cannot modify your LDAP backend using USVN at all (aka, you can't add group, people, etc.), but you can use it for users that already exist in your LDAP backend.
+	</li>
+	<li>
+		<strong>A newer Zend version</strong>
+		<br />
+		Up until now, USVN was using a version of the Zend Framework that came out about when it (USVN) started. But it's been a while now, and there has been a lot of newer versions of the framework.
+		<br />
+		We are now using Zend Framework version 1.7.4. We know it is not the latest one, but bare with us, Zend released 12 versions in 6 months, including 2 major revisions.
+		<br />
+		Don't worry, we will be updating the Zend Framework from time to time.
+	</li>
+</ul>
+<br />
+The <a href="http://demo.usvn.info">online demo</a> has been updated. Go check it out to see all the new features.
+<br />
+<br />
+We really hope you will be pleased by this new version.
+<br />
+As usual, if you find a bug, try to check <a href="https://trac.usvn.info/report/1">if we already know about it</a>, and if not, <a href="https://trac.usvn.info/newticket">create a ticket on the Trac</a>.

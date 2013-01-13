@@ -1,0 +1,14 @@
+<p>The USVN project supports GoPHP5 initiative to help transition to PHP 5.2.</p>
+<p>Starting now we will accept PHP 5.2.X features into our codebase and our
+new feature releases will no longer provide support for older PHP versions.</p>
+
+<p>USVN is already fully compatible with all the PHP 5.X versions and
+doesn't support PHP 4 but next versions will require PHP 5.2.X because we
+use some functions of this version related to dates.</p>
+
+<p>For more information please read:</p>
+<div style="text-align: center">
+	<a href="http://gophp5.org" title="Support GoPHP5.org">
+		<img src="http://gophp5.org/sites/gophp5.org/buttons/goPHP5-283x100.png" height="100" width="283" alt="Support GoPHP5.org" />
+	</a>
+</div>
